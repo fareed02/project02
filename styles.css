@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(209, 171, 171);
+}
+
+.chess {
+    background-color: greenyellow;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.game{
+    text-align: center;
+    border: 2px solid black;
+    background-color:azure
+
+}
+
+.chessbox{
+    /* text-align: center; */
+    width: 400px;
+   
+}
